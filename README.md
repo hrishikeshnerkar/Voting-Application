@@ -138,6 +138,13 @@ ng serve
 
 ---
 
+## 📸 Screenshots
+
+Here is the UI to create a new poll, which will be saved in the database:
+
+![image](https://github.com/user-attachments/assets/2ef88ecc-a214-40ab-aa29-887a9f091ada)
+
+
 ## 🙋 Author
 
 - **Hrishikesh Nerkar**
