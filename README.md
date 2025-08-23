@@ -145,8 +145,13 @@ Here is the UI to create a new poll, which will be saved in the database:
 ![image](https://github.com/user-attachments/assets/2ef88ecc-a214-40ab-aa29-887a9f091ada)
 
 
-## 🙋 Author
+---
 
-- **Hrishikesh Nerkar**
+## 👤 Author
+
+**Hrishikesh**  
+Full-stack developer passionate about building secure, scalable, and well-documented web applications.  
+Specialized in Spring Boot, React, and modern authentication flows.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh015)
 
 ---
